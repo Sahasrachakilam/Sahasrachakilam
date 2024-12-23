@@ -1,4 +1,4 @@
-my project is sentiment based on voting system 
-this project computers the positive and negative votes for an electtrical candidate using sentiment count
-the dataset is include in cade and has 2005 positive and 4781 negative sentiment words
+my project is Medicine Remainder System  
+this project computers the required and medicine and dosage to be taken
+the dataset is include disease and medicines for particular disease
 the code is written in c and has been tested on Lenovo with devc++ version
